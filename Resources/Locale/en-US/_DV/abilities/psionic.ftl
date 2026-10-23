@@ -12,6 +12,7 @@ psionic-power-name-psionic-invisibility = Psionic Invisibility
 psionic-power-name-psionic-regeneration = Psionic Regeneration
 psionic-power-name-pyrokinesis = Pyrokinesis
 psionic-power-name-telegnosis = Telegnosis
+psionic-power-name-Displacement = Spacial Displacement
 
 ## Psionic Rolling & Mindbreaking Messages
 psionic-roll-failed = The noöspheric influence leaves no mark on your mind...

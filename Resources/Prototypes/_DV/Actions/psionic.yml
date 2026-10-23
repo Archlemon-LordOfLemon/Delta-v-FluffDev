@@ -213,3 +213,15 @@
     useDelay: 60
   - type: InstantAction
     event: !type:PsychokineticScreamPowerActionEvent
+
+- type: entity
+  parent: BasePsionicAction
+  id: ActionDisplacement
+  name: Jaunt
+  description: Teleport to a target location, but teleport back after 3 seconds.
+  components:
+  - type: Action
+    icon: { sprite: _DV/Actions/shatterlights.rsi, state: shatter-lights }
+  - type: WorldTargetAction
+    event: !type:DisplacementPowerActionEvent
+
